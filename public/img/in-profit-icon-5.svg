@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:url(#SVGID_4_);}
+	.st5{fill:url(#SVGID_5_);}
+</style>
+<path class="st0" d="M171,324h170v180H171V324z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="101" y1="460" x2="101" y2="590" gradientTransform="matrix(1 0 0 1 0 -86)">
+	<stop  offset="0" style="stop-color:#C00000;stop-opacity:0.3"/>
+	<stop  offset="0.3883" style="stop-color:#F1C8C8;stop-opacity:0.6617"/>
+	<stop  offset="0.6369" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st1" d="M31,374h140v130H31V374z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="411" y1="490" x2="411" y2="590" gradientTransform="matrix(1 0 0 1 0 -86)">
+	<stop  offset="0" style="stop-color:#C00000;stop-opacity:0.3"/>
+	<stop  offset="0.4385" style="stop-color:#F1C8C8;stop-opacity:0.6617"/>
+	<stop  offset="0.6369" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st2" d="M341,404h140v100H341V404z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="256" y1="350" x2="256" y2="410" gradientTransform="matrix(1 0 0 1 0 -86)">
+	<stop  offset="0" style="stop-color:#C00000;stop-opacity:0.3"/>
+	<stop  offset="0.4665" style="stop-color:#F1C8C8;stop-opacity:0.6617"/>
+	<stop  offset="0.8547" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st3" d="M206,264h100v60H206V264z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="256" y1="119.3289" x2="256" y2="264">
+	<stop  offset="0" style="stop-color:#C00000;stop-opacity:0.3"/>
+	<stop  offset="0.4385" style="stop-color:#F1C8C8;stop-opacity:0.6617"/>
+	<stop  offset="0.6369" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st4" d="M336,8v100c0,39.1-28,71.6-65,78.6V264h-30v-77.4c-37-7-65-39.5-65-78.6V8H336z M240.6,397.2l-34.6,5l25,24.4
+	l-5.9,34.4l30.9-16.2l30.9,16.2l-5.9-34.4l25-24.4l-34.5-5L256,365.9L240.6,397.2z"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="256" y1="0.5" x2="256" y2="511.4">
+	<stop  offset="0" style="stop-color:#C00000"/>
+	<stop  offset="0.9469" style="stop-color:#BC1600;stop-opacity:0.91"/>
+	<stop  offset="0.9888" style="stop-color:#C32400;stop-opacity:0.9"/>
+</linearGradient>
+<path class="st5" d="M488.5,496.5v-100h-140v-80h-35v-60h-35v-63.9c28.6-7.6,51.5-29.4,60.7-57.4c36.1-3.6,64.3-34.1,64.3-71.1V30.5
+	h-60v-30h-175v30h-60V64c0,37,28.3,67.5,64.3,71.1c9.2,28,32.1,49.8,60.7,57.4v63.9h-35v60h-35v50h-140v130H0v15h512v-15h-23.5
+	V496.5z M343.5,108V45.5h45V64c0,27.5-19.7,50.4-45.8,55.5C343.2,115.7,343.5,111.8,343.5,108z M123.5,64V45.5h45V108
+	c0,3.8,0.3,7.7,0.8,11.5C143.2,114.4,123.5,91.5,123.5,64z M163.5,496.5h-125v-115h125V496.5z M183.5,108V15.5h145V108
+	c0,40-32.5,72.5-72.5,72.5S183.5,148,183.5,108z M263.5,195.2v61.3h-15v-61.3c2.5,0.2,5,0.3,7.5,0.3S261,195.4,263.5,195.2z
+	 M213.5,271.5h85v45h-85V271.5z M333.5,496.5h-155v-165h155V496.5z M473.5,496.5h-125v-85h125V496.5z M248.5,148v-14.5H231v-15h34
+	c4.7,0,8.5-3.8,8.5-8.5s-3.8-8.5-8.5-8.5h-18c-13,0-23.5-10.5-23.5-23.5S234,54.5,247,54.5h1.5V40h15v14.5H281v15h-34
+	c-4.7,0-8.5,3.8-8.5,8.5s3.8,8.5,8.5,8.5h18c13,0,23.5,10.5,23.5,23.5S278,133.5,265,133.5h-1.5V148H248.5z M215.1,474.7l40.9-21.5
+	l40.9,21.5l-7.8-45.5l33.1-32.2l-45.7-6.6L256,348.9l-20.4,41.4l-45.7,6.6l33.1,32.2L215.1,474.7z M222.1,407.4l23.4-3.4l10.5-21.2
+	l10.5,21.2l23.4,3.4l-17,16.6l4,23.3l-20.9-11l-20.9,11l4-23.3L222.1,407.4z M123.5,199.5h-15v-15h15V199.5z M123.5,249.5h-15v-15
+	h15V249.5z M148.5,209.5v15h-15v-15H148.5z M98.5,224.5h-15v-15h15V224.5z M403.5,236.5h-15v-15h15V236.5z M388.5,271.5h15v15h-15
+	V271.5z M428.5,261.5h-15v-15h15V261.5z M363.5,261.5v-15h15v15H363.5z"/>
+</svg>
