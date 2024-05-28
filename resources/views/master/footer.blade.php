@@ -68,7 +68,7 @@
                 </div>
             </div>
             <div class="uk-grid uk-flex uk-flex-center uk-margin-large-top uk-margin-small-bottom" data-uk-grid="">
-                <div class="uk-width-1-1@xl uk-margin-bottom uk-text-center">
+                <div class="uk-width-1-1@xl uk-margin-bottom uk-text-left uk-text-center@m">
                     <p class="uk-text-small">@lang('messages.luckyant_copyright')
                     </p>
                 </div>
