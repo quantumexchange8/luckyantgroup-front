@@ -27,7 +27,7 @@
                     your circumstances and financial resources. In considering whether to engage in trading our products you should be aware of the following risks.
                 </p>
                 <p class="uk-text-justify">
-                    Lucky Ant Trading does not (will not) provide you with investment advice relating to investments or possible transactions in investments or from making investment recommendations of any kind. We can give you factual market information or information, in relation to a transaction about which you have enquired, as to transaction 
+                    Lucky Ant Trading Limited does not (will not) provide you with investment advice relating to investments or possible transactions in investments or from making investment recommendations of any kind. We can give you factual market information or information, in relation to a transaction about which you have enquired, as to transaction 
                     procedures, potential risks involved and how those risks may be minimised.
                 </p>
             </div>
@@ -94,7 +94,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-margin-bottom">
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title">Futures Margin</h1>
-                    <p class="uk-text-justify uk-text-meta">This is the amount of money that you must deposit and keep on hand with Lucky Ant Trading when you open a futures position. It is not a down payment, and you do not own the underlying commodity.</p>
+                    <p class="uk-text-justify uk-text-meta">This is the amount of money that you must deposit and keep on hand with Lucky Ant Trading Limited when you open a futures position. It is not a down payment, and you do not own the underlying commodity.</p>
                     <p class="uk-text-justify uk-text-meta">When markets are changing rapidly and daily price moves become more volatile, these market conditions may result in higher margin requirements to account for increased risk.</p>        
                 </div>
                 <div class="uk-width-1-1@m">
@@ -139,8 +139,8 @@
             <div class="uk-card uk-card-default uk-card-body uk-margin-bottom">
                 <div class="uk-width-1-1@m">
                     <h2 id="section1">Volatility</h2>
-                    <p class="uk-text-justify uk-text-meta">Whether you make a profit or a loss will depend on the fluctuations in the price of the underlying instrument to which your trade relates. Neither you nor Lucky Ant Trading will have any control over price movements in the underlying instrument. Price movements in underlying instruments can be volatile and unpredictable.</p>
-                    <p class="uk-text-justify uk-text-meta">A feature of volatile markets is “gapping” this is where there is a significant change in the price between consecutive quotes. Gapping may occur in fast and falling markets or if price sensitive information is realised prior to market opening. The price at which Lucky Ant Trading executes your orders may be adversely affected if gapping occurs in the relevant market. Stop loss orders will be executed when the price meets or exceeds your specified order price. If gapping occurs the price at which your order is executed may be significantly different from your specified order price.</p>        
+                    <p class="uk-text-justify uk-text-meta">Whether you make a profit or a loss will depend on the fluctuations in the price of the underlying instrument to which your trade relates. Neither you nor Lucky Ant Trading Limited will have any control over price movements in the underlying instrument. Price movements in underlying instruments can be volatile and unpredictable.</p>
+                    <p class="uk-text-justify uk-text-meta">A feature of volatile markets is “gapping” this is where there is a significant change in the price between consecutive quotes. Gapping may occur in fast and falling markets or if price sensitive information is realised prior to market opening. The price at which Lucky Ant Trading Limited executes your orders may be adversely affected if gapping occurs in the relevant market. Stop loss orders will be executed when the price meets or exceeds your specified order price. If gapping occurs the price at which your order is executed may be significantly different from your specified order price.</p>        
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@
                     <h2 id="section1">Liquidity</h2>
                     <p class="uk-text-justify uk-text-meta">Under certain trading conditions it may be difficult or impossible to liquidate a Position. This may occur, for example at times of rapid price movement if the price rises or falls in one trading session to such an extent that trading is restricted or suspended.
                     </p>
-                    <p class="uk-text-justify uk-text-meta">A decrease in liquidity (a term which describes the availability of buyers and sellers who are prepared to deal in an underlying market) may also adversely impact the price and therefore the ability to quote and trade in a market. If there is a significant reduction or a temporary or permanent cessation in liquidity in an underlying instrument, such events may be deemed an event outside of Lucky Ant Trading’ s control or market disruption event (where applicable) and Lucky Ant Trading may increase the spread between the bid and offer, suspend trading or take any other action considered reasonable under the circumstances. As a result, you may not be able to place trades or to close or open positions in any affected market.
+                    <p class="uk-text-justify uk-text-meta">A decrease in liquidity (a term which describes the availability of buyers and sellers who are prepared to deal in an underlying market) may also adversely impact the price and therefore the ability to quote and trade in a market. If there is a significant reduction or a temporary or permanent cessation in liquidity in an underlying instrument, such events may be deemed an event outside of Lucky Ant Trading Limited’ s control or market disruption event (where applicable) and Lucky Ant Trading Limited may increase the spread between the bid and offer, suspend trading or take any other action considered reasonable under the circumstances. As a result, you may not be able to place trades or to close or open positions in any affected market.
                     </p>        
                 </div>
             </div>
@@ -172,9 +172,9 @@
         <div class="uk-width-1-1@m" id="exchange"> 
             <div class="uk-card uk-card-default uk-card-body uk-margin-top">
                 <h2 id="section1">Dealing Off Exchange</h2>
-                <p class="uk-text-justify uk-text-meta">Transactions with Lucky Ant Trading are not transacted on a recognised or designated investment exchange and, accordingly, they may expose you to greater risks than exchange transactions. The Transactions structure and rules
-                    will be established solely by Lucky Ant Trading in accordance with MSB and related regulation. For example,if you wish to close the position earlier than the time at which it would otherwise automatically expire, you will have 
-                    to close it at Lucky Ant Trading’ s quotation which may reflect a premium or discount to the Underlying Market. You will have to close any position with the same provider with whom it was originally entered into.</p>
+                <p class="uk-text-justify uk-text-meta">Transactions with Lucky Ant Trading Limited are not transacted on a recognised or designated investment exchange and, accordingly, they may expose you to greater risks than exchange transactions. The Transactions structure and rules
+                    will be established solely by Lucky Ant Trading Limited in accordance with MSB and related regulation. For example,if you wish to close the position earlier than the time at which it would otherwise automatically expire, you will have 
+                    to close it at Lucky Ant Trading Limited’ s quotation which may reflect a premium or discount to the Underlying Market. You will have to close any position with the same provider with whom it was originally entered into.</p>
             </div>
         </div>
 

@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="uk-width-1-2@m custom-small-screen">
-                    <p class="copyright-text">© Lucky Ant Fx Group 2024</p>
+                    <p class="copyright-text">© Lucky Ant Trading Limited 2024</p>
                 </div>
                 <div class="uk-width-1-2@m uk-flex uk-flex-right@m custom-small-screen">
                     <a class="uk-text-small" href="{{route('terms')}}">

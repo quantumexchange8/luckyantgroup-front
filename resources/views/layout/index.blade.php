@@ -175,7 +175,7 @@
 
 <div class="uk-section uk-padding-large uk-background-contain uk-background-bottom-center in-padding-large-vertical@s in-offset-top-40 in-profit-14" style="background-image: url('../img/in-section-profit-14.jpg');">
     <div class="uk-container uk-margin-bottom">
-        <div class="uk-child-width-1-2@s uk-child-width-1-4@m uk-text-center uk-margin-top10" data-uk-grid>
+        <div class="uk-child-width-1-2@s uk-child-width-1-4@m uk-text-center uk-margin-top10" data-uk-grid style="place-content: center;">
             <div class="uk-width-1-1">
                 <h2>@lang('messages.preferred_partner')</h2>
                 <p class="uk-text-grey">@lang('messages.preferred_caption')</p>
@@ -189,10 +189,10 @@
                 <img src="{{asset('img/in-profit-icon-8.svg')}}" alt="profit-icon" width="86" height="86" data-uk-img>
                 <h4 class="uk-heading-bullet uk-margin-top uk-text-blue">@lang('messages.unparalleled_trading')</h4>
             </div>
-            <div>
+            {{-- <div>
                 <img src="{{asset('img/in-profit-icon-10.svg')}}" alt="profit-icon" width="86" height="86" data-uk-img>
                 <h4 class="uk-heading-bullet uk-margin-top uk-text-blue">@lang('messages.globally_licensed')</h4>
-            </div>
+            </div> --}}
             <div>
                 <img src="{{asset('img/in-profit-icon-9.svg')}}" alt="profit-icon" width="86" height="86" data-uk-img>
                 <h4 class="uk-heading-bullet uk-margin-top uk-text-blue">@lang('messages.forex_education')</h4>

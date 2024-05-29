@@ -34,7 +34,7 @@ class ContactController extends Controller
         // Mail::send(new ContactFormMail($data));
 
         Mail::send('emails.contact', ['data' => $validatedData], function ($message) use ($validatedData) {
-            $message->to('support@luckyantfxgroup.com')->subject('Lucky Ant Form Submission');
+            $message->to('support@luckyantfxgroup.com')->subject('Lucky Ant Trading Limited Form Submission');
 
             $message->from($validatedData['email'], $validatedData['name']);
         });

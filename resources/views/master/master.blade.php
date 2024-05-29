@@ -7,7 +7,7 @@
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>@yield('title') | Lucky Ant Trading</title>
+    <title>@yield('title') | Lucky Ant Trading Limited</title>
     <link rel="preload" href="{{asset('fonts/fa-brands-400.woff2')}}" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="{{asset('fonts/fa-solid-900.woff2')}}" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="{{asset('fonts/montserrat-v14-latin-600.woff2')}}" as="font" type="font/woff2" crossorigin>

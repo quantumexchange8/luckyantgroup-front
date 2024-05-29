@@ -37,9 +37,9 @@
          
                 <p class="uk-text-justify uk-text-grey uk-text-default">
                     The terms and conditions of Customer Agreement constitute a legal contract between
-                    LUCKY ANT TRADING (referred to herein as “LUCKY ANT” or “we”), and the party or
+                    LUCKY ANT TRADING LIMITED TRADING (referred to herein as “LUCKY ANT TRADING LIMITED” or “we”), and the party or
                     parties (each referred to herein as a “Client” or “you”) executing this
-                    agreement.LUCKY ANT is registered and licensed by the relevant regulatory
+                    agreement.LUCKY ANT TRADING LIMITED is registered and licensed by the relevant regulatory
                     authorities (31000262677236), providing clients with foreign exchange, bullion and
                     contracts for difference trading facilities. This Agreement shall govern all trading activity and should be read carefully by
                     yourself.
@@ -71,8 +71,8 @@
                         authorities and provide you with an execution-only dealing service in foreign
                         exchange and contracts for differences, encompassing underlying assets such as
                         precious metals, energies, indices, shares, and cryptocurrency ('Contracts') offered by
-                        LUCKY ANT</p>
-                    <p class="uk-text-justify uk-text-meta">Both LUCKY ANT and the Client will act as principals in the entered contracts. You, as the Client, assume direct and personal 
+                        LUCKY ANT TRADING LIMITED</p>
+                    <p class="uk-text-justify uk-text-meta">Both LUCKY ANT TRADING LIMITED and the Client will act as principals in the entered contracts. You, as the Client, assume direct and personal 
                         responsibility for fulfilling obligations in every transaction, whether dealing directly or through an agent, or as an agent for another person. You agree to indemnify us 
                         for any liabilities, losses, or costs arising from any failure on your part to fulfill such obligations. </p>  
                     <p class="uk-text-justify uk-text-meta">All orders and instructions provided by you for the services are subject to these terms. Any additional terms introduced by you through orders, order confirmations, or similar
@@ -87,10 +87,10 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title">Execution</h1>
-                    <p class="uk-text-justify uk-text-meta">LUCKY ANT will exclusively provide an execution-only dealing service, refraining from
+                    <p class="uk-text-justify uk-text-meta">LUCKY ANT TRADING LIMITED will exclusively provide an execution-only dealing service, refraining from
                         offering investment advice. The execution of a Contract with you does not imply any
-                        recommendation or endorsement by LUCKY ANT regarding the merits or suitability of
-                        the Contract for you. Additionally, LUCKY ANT does not provide trading or market
+                        recommendation or endorsement by LUCKY ANT TRADING LIMITED regarding the merits or suitability of
+                        the Contract for you. Additionally, LUCKY ANT TRADING LIMITED does not provide trading or market
                         recommendations, advice, or instructions in its communications.</p>      
                 </div>
                 <div class="uk-width-1-1@m">
@@ -107,13 +107,13 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Margining Arrangements</h1>
-                    <p class="uk-text-justify uk-text-meta">The client is obligated to promptly pay to LUCKY ANT upon demand:
+                    <p class="uk-text-justify uk-text-meta">The client is obligated to promptly pay to LUCKY ANT TRADING LIMITED upon demand:
                     </p>
                   <ol type="i">
                     <li>Sums of money as deposits, initial margin, or variation margin as deemed
-                        necessary by LUCKY ANT.</li>  
+                        necessary by LUCKY ANT TRADING LIMITED.</li>  
                     <li>Amounts due under a contract and any sums required for clearing any debit</li>
-                    <li>Sums of money requested by LUCKY ANT as security for the client's
+                    <li>Sums of money requested by LUCKY ANT TRADING LIMITED as security for the client's
                         obligations.</li>
                   </ol>    
                     <p class="uk-text-justify uk-text-meta">Margin payments may be required to cover potential losses in adverse market
@@ -125,7 +125,7 @@
                         warrant it, at our absolute discretion.</p>
                     <p class="uk-text-justify uk-text-meta">We do not accept third-party payments for funding your account, and likewise, we will
                         not disburse funds from your account to any third parties. Failure to provide any required margin, deposit, or other sums may result in the
-                        closure of all open contracts by LUCKY ANT without prior notice.</p>
+                        closure of all open contracts by LUCKY ANT TRADING LIMITED without prior notice.</p>
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Charges and Commissions</h1>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Position Limit</h1>
-                    <p class="uk-text-justify uk-text-meta">LUCKY ANT retains the right to restrict the number of positions that the client can
+                    <p class="uk-text-justify uk-text-meta">LUCKY ANT TRADING LIMITED retains the right to restrict the number of positions that the client can
                         open or maintain in their account. We also reserve the right to refuse the acceptance
                         of any additional orders once the limit has been surpassed, and we may liquidate all
                         or part of the positions that exceed the limit thereafter. 
@@ -159,10 +159,10 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Exclusion of Liability</h1>
-                    <p class="uk-text-justify uk-text-meta">No claims shall be made against LUCKY ANT, any associated company, or any
+                    <p class="uk-text-justify uk-text-meta">No claims shall be made against LUCKY ANT TRADING LIMITED, any associated company, or any
                         employee, to recover any loss or damage incurred due to the fulfillment of our
                         obligations under this agreement. This provision applies, provided that such loss or
-                        damage does not result from the negligence or willful default of LUCKY ANT, its
+                        damage does not result from the negligence or willful default of LUCKY ANT TRADING LIMITED, its
                         associates, or employees.
                     </p>
                 </div>
@@ -270,7 +270,7 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Termination </h1>
-                    <p class="uk-text-justify uk-text-meta">This agreement shall remain in effect until terminated by either party. LUCKY ANT
+                    <p class="uk-text-justify uk-text-meta">This agreement shall remain in effect until terminated by either party. LUCKY ANT TRADING LIMITED
                         reserves the right, at its sole discretion and at any time, to terminate this agreement, with such termination taking effect on the date on which termination notice has been
                         given and payments made to the Client. The Client may terminate this agreement by
                         providing written notice, which will be effective upon receipt of the notice or, if received
@@ -302,11 +302,11 @@
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Governing Laws</h1>
                     <p class="uk-text-justify uk-text-meta">The terms of this client agreement, and the rights and obligations of the clients hereto, shall be governed by, construed, and enforced in all respects by the laws of United
-                        States. Clients, to induce LUCKY ANT to accept these terms, and for other good and
+                        States. Clients, to induce LUCKY ANT TRADING LIMITED to accept these terms, and for other good and
                         valuable consideration, hereby agree that any judicial, administrative action, or
                         proceeding, including, but not limited to, arbitration arising directly or indirectly
                         hereunder or in connection with the transactions contemplated hereby, whether
-                        brought by Client or LUCKY ANT, shall be held, at the sole discretion of LUCKY ANT, within United States. Clients consent and submit to, and waive any and all objections
+                        brought by Client or LUCKY ANT TRADING LIMITED, shall be held, at the sole discretion of LUCKY ANT TRADING LIMITED, within United States. Clients consent and submit to, and waive any and all objections
                         Client may have to such venue, and further agree to waive and forego any right Client
                         may have to transfer or change the venue of any action or proceeding encompassed
                         hereby.
@@ -318,7 +318,7 @@
                         understand the nature and the exposure to risk.You should also be satisfied that the
                         product is suitable for you in light of your circumstances and financial position. Different instruments involve different levels of exposure to risk, and in deciding
                         whether to trade in such instruments you should be aware of the following factors
-                        concerning trading the derivatives products in LUCKY ANT.
+                        concerning trading the derivatives products in LUCKY ANT TRADING LIMITED.
                     </p>
                     <ol style=" list-style-type:lower-alpha">
                     <li>Futures</li>
@@ -398,16 +398,16 @@
                             in the circumstances having to our position, your position and the positions of the
                             other customers.</li>
                     </ul>
-                    <p class="uk-text-justify uk-text-meta">In the event of the above events, LUCKY ANT shall not be liable to the Client for any
+                    <p class="uk-text-justify uk-text-meta">In the event of the above events, LUCKY ANT TRADING LIMITED shall not be liable to the Client for any
                         claims, losses, damage, costs, and expenses, including lawyers’ fees, arising directly
                         or indirectly out of such events.</p>
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Entry Into Force</h1>
-                    <p class="uk-text-justify uk-text-meta">This Agreement shall not be deemed accepted by LUCKY ANT and shall not become
-                        a binding contract between the Client and LUCKY ANT until the Agreement and the
+                    <p class="uk-text-justify uk-text-meta">This Agreement shall not be deemed accepted by LUCKY ANT TRADING LIMITED and shall not become
+                        a binding contract between the Client and LUCKY ANT TRADING LIMITED until the Agreement and the
                         Customer Account Application, including all relevant annexes, have been completed
-                        and executed by the Client and received and accepted by LUCKY ANT, a notice
+                        and executed by the Client and received and accepted by LUCKY ANT TRADING LIMITED, a notice
                         whereof shall be given to the Customer.</p>
                
                 </div>
@@ -443,7 +443,7 @@
                     <p class="uk-text-justify uk-text-meta">We provide herewith a summary of the policy we maintain in order to manage conflicts
                         of interest in respect of the duties we owe to our clients.</p>
                     <h6>General</h6>
-                    <p class="uk-text-justify uk-text-meta">A conflict of interest can arise between LUCKY ANT and you as a client or between
+                    <p class="uk-text-justify uk-text-meta">A conflict of interest can arise between LUCKY ANT TRADING LIMITED and you as a client or between
                         your interests and those of another client of ours. We aim to establish, maintain, and
                         operate effective organizational and administrative arrangements with a view to taking
                         all reasonable steps to prevent conflicts of interest from constituting or giving rise to a
@@ -482,11 +482,11 @@
         <div class="uk-width-1-1@m uk-margin-top">
             <h2>Online Trading Agreement</h2>
             <p class="uk-text-meta uk-text-justify">
-                This Agreement sets forth the terms and conditions under which LUCKY ANT shall
+                This Agreement sets forth the terms and conditions under which LUCKY ANT TRADING LIMITED shall
                 permit you as our client to have access to one or more terminals, including terminal
                 access through your internet browser, for the electronic transmission of orders and/or
-                transactions, for your accounts with LUCKY ANT. This Agreement also sets forth the
-                terms and conditions under which LUCKY ANT shall permit you electronically to
+                transactions, for your accounts with LUCKY ANT TRADING LIMITED. This Agreement also sets forth the
+                terms and conditions under which LUCKY ANT TRADING LIMITED shall permit you electronically to
                 monitor the activity, orders and/or transactions in your account (collectively, the “Online Service”). For purposes of this Agreement the term “Online Service”
                 includes all software and communications links and in consideration thereof, Client
                 agrees to the following:
@@ -496,18 +496,18 @@
             <div class="uk-card uk-card-default uk-card-body uk-margin-bottom">
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title">Licence Grant & The Right of Use</h1>
-                    <p class="uk-text-justify uk-text-meta">By this Agreement, where LUCKY ANT is supplying the Client with software for use
+                    <p class="uk-text-justify uk-text-meta">By this Agreement, where LUCKY ANT TRADING LIMITED is supplying the Client with software for use
                         with the Online Service, the Client undertakes to use the software solely for his/her own internal business purposes. Neither the software nor the Online Service may be
                         used to provide third-party training or as a service bureau for any third parties. The
                         Client agrees to use the Online Service and the software strictly in accordance with
-                        the terms and conditions of LUCKY ANT Account Opening Documentation, as
-                        amended from time to time. The Client also agrees to be bound by any rules, procedures, and conditions established by LUCKY ANT concerning the use of the
-                        Online Service provided by LUCKY ANT.</p>
+                        the terms and conditions of LUCKY ANT TRADING LIMITED Account Opening Documentation, as
+                        amended from time to time. The Client also agrees to be bound by any rules, procedures, and conditions established by LUCKY ANT TRADING LIMITED concerning the use of the
+                        Online Service provided by LUCKY ANT TRADING LIMITED.</p>
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title">Accessess and Security</h1>
                     <p class="uk-text-justify uk-text-meta">The Online Service may be used to transmit, receive, and confirm the execution of
-                        orders, subject to prevailing market conditions and applicable rules and regulations. LUCKY ANT consents to the Client’s access and use in reliance upon his/her having
+                        orders, subject to prevailing market conditions and applicable rules and regulations. LUCKY ANT TRADING LIMITED consents to the Client’s access and use in reliance upon his/her having
                         adopted procedures to prevent unauthorized access to and use of the Online Service.
                         In any event, the Client agrees to bear any financial liability for trades executed
                         through the Online Service. The Client acknowledges, represents, and warrants that:</p>      
@@ -522,7 +522,7 @@
                             accessed through the Login and/or Password.</li>
                     </ol>
                     <p class="uk-text-meta uk-text-justify">The Client accepts responsibility for the monitoring of his/her account(s). The Client
-                        will immediately notify LUCKY ANT in writing if He/She becomes aware of any of the
+                        will immediately notify LUCKY ANT TRADING LIMITED in writing if He/She becomes aware of any of the
                         following:</p>
                     <ol style="list-style-type: lower-alpha" class="uk-text-meta uk-text-justify">
                         <li class="uk-margin-bottom"> Any loss, theft or unauthorized use of his/her Password(s), Login and/or account
@@ -540,45 +540,45 @@
                     <h1 id="section1" class="uk-card-title">Risks of Online Trading</h1>
                     <p class="uk-text-justify uk-text-meta">The Client’s access to the Online Service, or any portion thereof, may be restricted or
                         unavailable during periods of peak demands, extreme market volatility, systems
-                        upgrades, or other reasons. LUCKY ANT makes no express or implied
+                        upgrades, or other reasons. LUCKY ANT TRADING LIMITED makes no express or implied
                         representations or warranties to the Client regarding the usability, condition, or
-                        operation thereof. LUCKY ANT does not warrant that access to or use of the Online
+                        operation thereof. LUCKY ANT TRADING LIMITED does not warrant that access to or use of the Online
                         Service will be uninterrupted or error-free or that the Online Service will meet any
                         particular criteria of performance or quality.
                     </p>
-                    <p class="uk-text-justify uk-text-meta">Since LUCKY ANT does not control signal power, its reception or routing via the
+                    <p class="uk-text-justify uk-text-meta">Since LUCKY ANT TRADING LIMITED does not control signal power, its reception or routing via the
                         internet, configuration of your equipment, or reliability of its connection, we cannot be
                         responsible for communication failure, distortions, or delays when trading online via
                         the internet.</p>
-                    <p class="uk-text-justify uk-text-meta">Under no circumstances, including negligence, shall LUCKY ANT or anyone else
+                    <p class="uk-text-justify uk-text-meta">Under no circumstances, including negligence, shall LUCKY ANT TRADING LIMITED or anyone else
                         involved in creating, producing, delivering, or managing the Online Service be liable
                         for any direct, indirect, incidental, special, or consequential damages that result from
                         the use of or inability to use the Online Service, or out of any breach of any warranty,
                         including, without limitation, those for business interruption or loss of profits.</p>        
                     <p class="uk-text-justify uk-text-meta">The Client expressly agrees that his/her use of the Online Service is at his/her sole
                         risk. The Client assumes full responsibility and risk of loss resulting from the use of, or
-                        materials obtained through the Online Service. Neither LUCKY ANT nor other
+                        materials obtained through the Online Service. Neither LUCKY ANT TRADING LIMITED nor other
                         suppliers providing data, information, or services warrant that the Online Service will
-                        be uninterrupted or error-free; nor does LUCKY ANT make any warranty as to the
+                        be uninterrupted or error-free; nor does LUCKY ANT TRADING LIMITED make any warranty as to the
                         results that may be obtained from the use of the Online Service or as to the timeliness, sequence, accuracy, completeness, 
                         reliability, or content of any information, service, or transaction provided through the Online Service.</p>
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Market Data & Information</h1>
-                    <p class="uk-text-justify uk-text-meta">Neither LUCKY ANT nor any provider shall be liable in any way to the Client or to any
+                    <p class="uk-text-justify uk-text-meta">Neither LUCKY ANT TRADING LIMITED nor any provider shall be liable in any way to the Client or to any
                         other person for:
                     </p>
                   <ol style="list-style-type: lower-alpha" class="uk-text-justify uk-text-meta">
                     <li class="uk-margin-bottom"> Any inaccuracy, error or delay in, or omission of any such data, information or
                         message or the transmission or delivery of any such data, information or message; or</li>  
-                    <li> LUCKY ANT shall not be liable for any loss or damage arising from or occasioned
+                    <li> LUCKY ANT TRADING LIMITED shall not be liable for any loss or damage arising from or occasioned
                         by any inaccuracy, error, delay, omission, non-performance, or interruption in any data,
                         information, or message, due to any negligent act or omission or to any condition of
-                        force majeure or any other cause, whether or not within LUCKY ANT or any provider’s
-                        control. LUCKY ANT shall not be deemed to have received any order or
-                        communication transmitted electronically by the Client until LUCKY ANT has actual knowledge of such order or communication. Additionally, if a client executed a trade at
+                        force majeure or any other cause, whether or not within LUCKY ANT TRADING LIMITED or any provider’s
+                        control. LUCKY ANT TRADING LIMITED shall not be deemed to have received any order or
+                        communication transmitted electronically by the Client until LUCKY ANT TRADING LIMITED has actual knowledge of such order or communication. Additionally, if a client executed a trade at
                         a price which at the time the trade was executed was wrong and/or delayed from the
-                        actual market price, then LUCKY ANT may cancel that trade from the Client’s
+                        actual market price, then LUCKY ANT TRADING LIMITED may cancel that trade from the Client’s
                         account.</li>
                   </ol>    
                 </div>
@@ -586,7 +586,7 @@
                     <h1 id="section1" class="uk-card-title"> Representations</h1>
                     <p class="uk-text-justify uk-text-meta">The Client acknowledges that the Online Service may, from time to time, be
                         unavailable for operational reasons, including servicing, hardware malfunction, software defect, service or transmission interruption, or other causes. The Client
-                        agrees to hold LUCKY ANT and any provider harmless from liability for any damage
+                        agrees to hold LUCKY ANT TRADING LIMITED and any provider harmless from liability for any damage
                         resulting from the unavailability of the Online Service. The Client further
                         acknowledges the need for alternative arrangements to remain in place for the
                         transmission and execution of orders in the event that circumstances prevent the use
@@ -596,7 +596,7 @@
                         legal disability to enter into this Agreement or engage in trading. The Client commits to
                         ongoing compliance with all applicable laws, rules, and regulations governing their
                         business activities. The Client agrees to be familiar with and adhere to any rules or
-                        procedures established by LUCKY ANT and any providers related to the use of the
+                        procedures established by LUCKY ANT TRADING LIMITED and any providers related to the use of the
                         Online Service, and to undergo any necessary training for its proper use. The Client
                         shall not, and shall not permit any third party to, copy, use, analyze, modify, decompile, disassemble, reverse engineer, translate, or convert any software provided in
                         connection with the Online Service, nor shall they distribute such software or the
@@ -604,7 +604,7 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Termination</h1>
-                    <p class="uk-text-justify uk-text-meta">LUCKY ANT reserves the right to terminate or restrict the Client's access to the Online
+                    <p class="uk-text-justify uk-text-meta">LUCKY ANT TRADING LIMITED reserves the right to terminate or restrict the Client's access to the Online
                         Service and may terminate this Agreement at its sole discretion. In the event of
                         termination, any software license granted to the Client under this Agreement shall
                         automatically cease.
@@ -612,17 +612,17 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Indemnity</h1>
-                    <p class="uk-text-justify uk-text-meta">The Client agrees to indemnify and hold LUCKY ANT harmless from and against any
+                    <p class="uk-text-justify uk-text-meta">The Client agrees to indemnify and hold LUCKY ANT TRADING LIMITED harmless from and against any
                         and all claims, losses, liabilities, damages, costs and expenses (including reasonable
                         legal fees) arising out of or related to this Agreement and due to any error that the
-                        Client fail to correct or arrange for LUCKY ANT to correct (if possible). This
+                        Client fail to correct or arrange for LUCKY ANT TRADING LIMITED to correct (if possible). This
                         indemnification shall be binding upon the Client and the Client’s executors, administrators, heirs, successors and permitted assigns and will survive termination of
                         this Agreement.
                     </p>
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Miscellaneous</h1>
-                    <p class="uk-text-justify uk-text-meta">The Client is not authorized to amend the terms of this Agreement. LUCKY ANT
+                    <p class="uk-text-justify uk-text-meta">The Client is not authorized to amend the terms of this Agreement. LUCKY ANT TRADING LIMITED
                         reserves the right to amend the terms of this Agreement, with notice to the Client
                         (including electronic delivery). Continued access to and use of the Online Service by
                         the Client constitutes agreement to any amendments made to this Agreement. This
@@ -642,7 +642,7 @@
                     <h1 id="section1" class="uk-card-title"> Risk and Disclaimer </h1>
                     <p class="uk-text-justify uk-text-meta">By submitting the registration form to download the demo, requesting a quick call
                         back, or registering for the newsletter, you are providing consent to receive
-                        information via email, telephone, post, or any other method from LUCKY ANT. This
+                        information via email, telephone, post, or any other method from LUCKY ANT TRADING LIMITED. This
                         information may include details about offers, products, and services that we believe
                         may be of interest to you. Your details will not be shared with any third parties for
                         marketing purposes without your prior consent, except for our affiliated companies. If
@@ -660,9 +660,9 @@
                 </div>
                 <div class="uk-width-1-1@m">
                     <h1 id="section1" class="uk-card-title"> Privacy Policy </h1>
-                    <p class="uk-text-justify uk-text-meta">The Privacy Policy outlines the procedures followed by LUCKY ANT in the collection, utilization, and disclosure of personal information. It delineates the rights of the clients
-                        concerning their data. LUCKY ANT will periodically review the Privacy Policy Statement to align with new laws, technological advancements, operational changes, and evolving practices, ensuring its continued relevance. The information in our
-                        possession will be subject to the latest LUCKY ANT Privacy Policy Statement.
+                    <p class="uk-text-justify uk-text-meta">The Privacy Policy outlines the procedures followed by LUCKY ANT TRADING LIMITED in the collection, utilization, and disclosure of personal information. It delineates the rights of the clients
+                        concerning their data. LUCKY ANT TRADING LIMITED will periodically review the Privacy Policy Statement to align with new laws, technological advancements, operational changes, and evolving practices, ensuring its continued relevance. The information in our
+                        possession will be subject to the latest LUCKY ANT TRADING LIMITED Privacy Policy Statement.
                     </p>
                 </div>
             </div>
@@ -679,7 +679,7 @@
                         <hr class="uk-margin-medium-top uk-margin-small-bottom">
                         <ul class="in-faq-5" data-uk-accordion="collapsible: false">
                             <li class="uk-open">
-                                <a class="uk-accordion-title uk-text-default" href="#">Why does LUCKY ANT collect personal information ?</a>
+                                <a class="uk-accordion-title uk-text-default" href="#">Why does LUCKY ANT TRADING LIMITED collect personal information ?</a>
                                 <div class="uk-accordion-content">
                                     <p class="uk-text-justify uk-text-meta">Our business is to meet our customers' needs for a range of financial services. To do
                                             this effectively, we need to collect certain personal information.</p>
