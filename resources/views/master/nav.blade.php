@@ -12,7 +12,7 @@
                                     <span> English </span>
                                 @elseif (App::getLocale() === 'cn')
                                     <span>简体中文 </span>
-                                @elseif (App::getLocale() === 'indo')
+                                {{-- @elseif (App::getLocale() === 'indo')
                                     <span>Indonesia</span>
                                 @elseif (App::getLocale() === 'japan')
                                     <span>Japan</span>
@@ -23,19 +23,19 @@
                                 @elseif (App::getLocale() === 'thai')
                                     <span>Thailand</span>
                                 @elseif (App::getLocale() === 'viet')
-                                    <span>Vietnam</span>
+                                    <span>Vietnam</span> --}}
                                 @endif
                             </span>
                             <div id="language-dropdown" uk-dropdown="mode: click; boundary: !.uk-button-group; boundary-align: true;" style="background-color:white;">
                                 <ul class="uk-nav uk-dropdown-nav">
                                     <li><a href="{{ url('localization/en') }}"><img class="mr-2" src="{{ asset('img/Logo/en.png') }}" alt="English">English</a></li>
                                     <li><a href="{{ url('localization/cn') }}"><img class="mr-2" src="{{ asset('img/Logo/cn.png') }}" alt="简体中文">简体中文</a></li>
-                                    <li><a href="{{ url('localization/indo') }}"><img class="mr-2" src="{{ asset('img/Logo/indo.png') }}" alt="Indonesia">Indonesia</a></li>
+                                    {{-- <li><a href="{{ url('localization/indo') }}"><img class="mr-2" src="{{ asset('img/Logo/indo.png') }}" alt="Indonesia">Indonesia</a></li>
                                     <li><a href="{{ url('localization/japan') }}"><img class="mr-2" src="{{ asset('img/Logo/japan.png') }}" alt="Japanese">Japanese</a></li>
                                     <li><a href="{{ url('localization/korea') }}"><img class="mr-2" src="{{ asset('img/Logo/korea.png') }}" alt="Korea">Korea</a></li>
                                     <li><a href="{{ url('localization/taiwan') }}"><img class="mr-2" src="{{ asset('img/Logo/taiwan.png') }}" alt="繁体中文">繁体中文</a></li>
                                     <li><a href="{{ url('localization/thai') }}"><img class="mr-2" src="{{ asset('img/Logo/thailand.png') }}" alt="Thailand">Thailand</a></li>
-                                    <li><a href="{{ url('localization/viet') }}"><img class="mr-2" src="{{ asset('img/Logo/vietnam.png') }}" alt="Vietnam">Vietnam</a></li>
+                                    <li><a href="{{ url('localization/viet') }}"><img class="mr-2" src="{{ asset('img/Logo/vietnam.png') }}" alt="Vietnam">Vietnam</a></li> --}}
                                 </ul>
                             </div>
                         </div>

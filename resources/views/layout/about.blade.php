@@ -132,7 +132,7 @@
             </div>
             <div class="uk-width-1-1 in-timeline-1">
                 <hr>
-                <div class="uk-grid uk-child-width-1-1 uk-child-width-1-4@m">
+                <div class="uk-grid uk-child-width-1-1 uk-child-width-1-4@m" style="place-content: center;">
                     <div>
                         <div class="in-timeline-branch">
                             <div class="uk-flex">
@@ -167,7 +167,7 @@
                             </div>
                         </div>
                     </div>
-                    <div>
+                    {{-- <div>
                         <div class="in-timeline-branch">
                             <div class="uk-flex">
                               <div class="in-icon-wrap circle primary-color">
@@ -183,7 +183,7 @@
                          <p class="uk-text-center uk-text-darkblue">@lang('messages.2023_caption')</p>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                     <div>
                         <div class="in-timeline-branch">
                             <div class="uk-flex">

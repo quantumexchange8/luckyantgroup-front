@@ -109,7 +109,7 @@ return [
     'trading_platform'=>'交易平台',
     'metatrader_tradingplatform'=>'MetaTrader 5 交易平台',
     'oneplatform_market'=>'一个平台，多种市场！',
-    'metatrader_caption2'=>'MetaTrader 5 (MT5) 是市场领先的外汇交易平台，MT5 是MetaTrader 5的英文缩写。它是由MetaQuotes Platform(迈达克)公司编写的一款金融交易软件，旨在向金融中介机构对他们的客户提供在外汇、差价合约、股票和期货等金融产品交易的交易平台，包括各种交易执行功能、无限量图表、大量技术指标和曲线、自定义指标及脚本，并且MT5平台提供内置的自动交易市场、自由职业者的策略开发人员数据库、复制交易和虚拟主机(Forex VPS)服务！',
+    'metatrader_caption2'=>'MetaTrader 5 (MT5) 是市场领先的外汇交易平台，MT5 是MetaTrader 5的英文缩写。它是由MetaQuotes Platform(迈达克)公司编写的一款金融交易软件，旨在向金融中介机构对他们的客户提供在外汇、差价合约、股票和期货等金融产品交易的交易平台，包括各种交易执行功能、无限量图表、大量技术指标和曲线、自定义指标及脚本，并且MT5平台提供内置的自动交易市场、自由职业者的策略开发人员数据库和虚拟主机(Forex VPS)服务！',
     'feature_metatrader'=>'Metatrader 5特点：',
     'programming_language'=>'编程语言是MQL5',
     'provide_timeframe'=>'提供了 21 种时间表格',

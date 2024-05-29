@@ -33,7 +33,7 @@
                     </div>
                 </div>
             </li> 
-            <li>
+            {{-- <li>
 
                 <div class="uk-container">
                     <div class="uk-grid" data-uk-grid>
@@ -54,7 +54,7 @@
                     </div>
                 </div>
               
-            </li>
+            </li> --}}
         </ul>
         <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-previous data-uk-slideshow-item="previous"></a>
         <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-next data-uk-slideshow-item="next"></a>
@@ -580,11 +580,11 @@
                 <h4 class="uk-heading-bullet uk-margin-top uk-text-blue">@lang('messages.industry_leading')</h4>
                 <p class="uk-text-grey uk-text-justify">@lang('messages.industry_caption')</p>
             </div>
-            <div class="uk-width-1-2@s uk-width-1-3@m">
+            {{-- <div class="uk-width-1-2@s uk-width-1-3@m">
                 <img src="{{asset('img/in-profit-icon-2.svg')}}" alt="profit-icon" width="86" height="86" data-uk-img>
                 <h4 class="uk-heading-bullet uk-margin-top uk-text-blue">@lang('messages.copy_trading')</h4>
                 <p class="uk-text-grey uk-text-justify">@lang('messages.copytrading_desc')</p>
-            </div>
+            </div> --}}
             <div class="uk-width-1-2@s uk-width-1-3@m">
                 <img src="{{asset('img/in-profit-icon-1.svg')}}" alt="profit-icon" width="86" height="86" data-uk-img>
                 <h4 class="uk-heading-bullet uk-margin-top uk-text-blue">@lang('messages.24/7_cs')</h4>
