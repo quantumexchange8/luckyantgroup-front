@@ -407,7 +407,7 @@
 <!----------End of MetaTrader Account--------------->
 
 <!----------Open an Account----------->
-<div class="uk-section">
+{{-- <div class="uk-section">
     <div class="uk-container">
         <div class="uk-grid">
             <div class="uk-width-1-1">
@@ -427,6 +427,6 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!---------End of Open an Account----->
 @endsection

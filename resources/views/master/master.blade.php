@@ -55,8 +55,8 @@
 <script src="{{asset('js/utilities.min.js')}}"></script>
 <script src="{{asset('js/config-theme.js')}}"></script>
 <script>
-    var loginUrl = "{{ url('https://member.luckyantfxasia.com/login') }}";
-    theme_mobilenav();
+    // var loginUrl = "{{ url('https://member.luckyantfxasia.com/login') }}";
+    // theme_mobilenav();
 </script>
 @yield('script')
 @yield('scripts')

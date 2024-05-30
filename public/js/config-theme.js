@@ -31,11 +31,11 @@
         theme_mobilenav: function() {
         
             new MobileNavbar({
-                addonButtons: true,
+                addonButtons: false,
                 buttons: [
                     {
                         name: window.translations.login,
-                        url: loginUrl,
+                        // url: loginUrl,
                         type: 'primary',
                         icon: 'sign-in-alt'
                     },

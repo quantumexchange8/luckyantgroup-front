@@ -130,7 +130,7 @@
 <!---------------End of Trading View Widget-------------------------->
 
 <!---------------Open Account---------------------------------->
-<div class="uk-section">
+{{-- <div class="uk-section">
     <div class="uk-container">
         <div class="uk-grid">
             <div class="uk-width-1-1">
@@ -150,6 +150,6 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!---------------End of Open Account-------------------------->
 @endsection

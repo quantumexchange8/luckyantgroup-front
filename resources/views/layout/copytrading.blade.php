@@ -240,7 +240,7 @@
 </div>
 <!-----------------------------End of Steps Copying Trades------------------------------->
 
-<div class="uk-section uk-padding-large in-padding-large-vertical@s in-profit-16">
+{{-- <div class="uk-section uk-padding-large in-padding-large-vertical@s in-profit-16">
     <div class="uk-container ">
         <div class="uk-grid uk-flex uk-flex-center" data-uk-grid>
             <div class="uk-width-3-4@m">
@@ -256,7 +256,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
   
 @endsection
 
