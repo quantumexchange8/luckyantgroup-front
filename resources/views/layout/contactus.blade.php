@@ -13,8 +13,8 @@
                 <div class="uk-grid uk-child-width-1-2@m uk-margin-medium-top uk-text-center" data-uk-grid="">
                     <div>
                         <h5 class="uk-margin-remove-bottom">@lang('messages.address')</h5>
-                        <p class="uk-margin-small-top">1312 17TH ST UNIT NUM 2955 </br>
-                    TOP FLOOR RODNEY COURT BUILDING RODNEY BAY GROS ISLET SAINT LUCIA
+                        <p class="uk-margin-small-top">
+                            F-3a-01, Level 3, KL Gateway Corporate Office Suite, N0 2, Jalan Kerinchi, Gerbang Kerinchi Lestari, 59200, Kuala Lumpur.
                         </p>
                     </div>
                     <div>   
