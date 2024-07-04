@@ -6,10 +6,16 @@
     <div class="uk-container">
         <div class="uk-grid uk-flex uk-flex-center in-contact-6">
             <div class="uk-width-4-5">
-                <iframe class="uk-width-1-1 uk-height-large uk-border-rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.9332527411425!2d101.66147792567597!3d3.112362653376207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc49a7b21e698f%3A0xcbbc4cd776e14dab!2sWORQ%20Bangsar%20South!5e0!3m2!1sen!2smy!4v1718075551202!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="uk-width-1-1 uk-height-large uk-border-rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15479.746616791266!2d-60.96796104042006!3d14.08091669458936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c40429dac48b5c5%3A0x64831184265128e2!2sRodney%20Bay!5e0!3m2!1sen!2smy!4v1720076938133!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div class="uk-width-4-5@m">
-                <div class="uk-grid uk-child-width-1-2@m uk-margin-medium-top uk-text-center" data-uk-grid="">
+                <div class="uk-grid uk-child-width-1-3@m uk-margin-medium-top uk-text-center" data-uk-grid="">
+                    <div>
+                        <h5 class="uk-margin-remove-bottom">@lang('messages.register_address')</h5>
+                        <p class="uk-margin-small-top">
+                            Top Floor Rodney , Court Building , Rodney Bay , Gros Islet Saint Lucia
+                        </p>
+                    </div>
                     <div>
                         <h5 class="uk-margin-remove-bottom">@lang('messages.address')</h5>
                         <p class="uk-margin-small-top">

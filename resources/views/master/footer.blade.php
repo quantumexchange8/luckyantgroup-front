@@ -24,14 +24,14 @@
                             <div><i class="fas fa-envelope uk-margin-small-right"></i>@lang('messages.email'):  </div>
                             <div> <a href="mailto:support@luckyantfxgroup.com">support@luckyantfxgroup.com</a> </div>
                         </li>
-                        <li>
+                        {{-- <li>
                             <div><i class="fa-regular fa-map-location-dot uk-margin-small-right"></i>@lang('messages.address') </div>
                             <div>
                                 <ul class="footer">
                                     <li>F-3a-01, Level 3, KL Gateway Corporate Office Suite, N0 2, Jalan Kerinchi, Gerbang Kerinchi Lestari, 59200, Kuala Lumpur.</li>
                                 </ul>
                               </div>
-                        </li>
+                        </li> --}}
                         <li>
                             <div><i class="fas fa-map-marker-alt uk-margin-small-right"></i>@lang('messages.register_address') </div>
                             <div>
