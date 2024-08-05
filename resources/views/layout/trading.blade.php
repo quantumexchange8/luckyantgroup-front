@@ -39,11 +39,11 @@
                         <i class="fa-brands fa-apple fa-2x"></i>
                         <span class="wrapper">@lang('messages.download')<br><span>@lang('messages.ios')</span></span>
                     </a>
-                    <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=en&referrer=ref_id%3D4852173143092083308%26hl%3Den%26utm_source%3Dwww.metatrader5.com%26utm_campaign%3Dinstall.metaquotes&pli=1" class="uk-button in-button-app in-profit-2">
+                    <a href="https://download.mql5.com/cdn/mobile/mt5/android?server=LuckyAntTradingLtd-Live" class="uk-button in-button-app in-profit-2">
                         <i class="fab fa-google-play fa-2x"></i>
                         <span class="wrapper">@lang('messages.download')<br><span>@lang('messages.android')</span></span>
                     </a>
-                    <a href="https://download.metatrader.com/cdn/web/lucky.ant.trading/mt5/luckyanttrading5setup.exe" class="uk-button in-button-app">
+                    <a href="https://download.mql5.com/cdn/web/lucky.ant.trading/mt5/luckyanttradingltd5setup.exe" class="uk-button in-button-app">
                         <i class="fa-brands fa-windows fa-2x"></i>
                         <span class="wrapper">@lang('messages.download')<br><span>@lang('messages.desktop')</span></span>
                     </a>
