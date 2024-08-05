@@ -22,6 +22,7 @@ return [
     'metatrader_caption'=>'As the most powerful trading platform for forex and financial markets, MetaTrader 5 is not only suitable for the forex market but also supports stocks, futures, commodities markets, as well as various financial markets such as digital cryptocurrencies. This means traders can easily access and trade various assets on the same platform, providing a broader range of investment choices and flexibility. This comprehensive platform allows traders to flexibly navigate multiple markets, offering unlimited expansion to their investment scope.',
     'download'=>'Download',
     'android'=>'Android Version',
+    'ios'=>'IOS Version',
     'desktop'=>'Desktop Version',
     'choose_us'=>'Why Choose Us?',
     'swift_execution'=>'Swift Execution and Deep Liquidity',

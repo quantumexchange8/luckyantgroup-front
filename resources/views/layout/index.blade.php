@@ -363,7 +363,11 @@
                     <h2>@lang('messages.metatrader_title')</h2>
                     <p class="uk-text-justify uk-text-meta uk-text-grey">@lang('messages.metatrader_caption')
                     </p>
-                    <div class="uk-flex" data-uk-margin>
+                    <div class="uk-flex uk-child-width-1-1\@l" data-uk-margin>
+                        <a href="https://download.mql5.com/cdn/mobile/mt5/ios?server=LuckyAntTradingLtd-Live" class="uk-button in-button-app uk-margin-small-right">
+                            <i class="fab fa-google-play fa-2x"></i>
+                            <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.ios')</span></span>
+                        </a>
                         <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=en&referrer=ref_id%3D4852173143092083308%26hl%3Den%26utm_source%3Dwww.metatrader5.com%26utm_campaign%3Dinstall.metaquotes&pli=1" class="uk-button in-button-app uk-margin-small-right">
                             <i class="fab fa-google-play fa-2x"></i>
                             <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.android')</span></span>
@@ -539,15 +543,25 @@
                 <h2>@lang('messages.metatrader_title')</h2>
                 <p class="uk-text-justify uk-text-meta uk-text-grey">@lang('messages.metatrader_caption')
                 </p>
-                <div class="uk-flex">
-                    <a href="#" class="uk-button in-button-app uk-margin-small-right">
-                        <i class="fab fa-google-play fa-2x"></i>
-                        <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.android')</span></span>
-                    </a>
-                    <a href="#" class="uk-button in-button-app">
-                        <i class="fa-brands fa-windows fa-2x"></i>
-                        <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.desktop')</span></span>
-                    </a>
+                <div class="" style="display:flex; flex-direction:column; gap: 12px">
+                    <div>
+                        <a href="https://download.mql5.com/cdn/mobile/mt5/ios?server=LuckyAntTradingLtd-Live" class="uk-button in-button-app">
+                            <i class="fa-brands fa-apple fa-2x"></i>
+                            <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.ios')</span></span>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="https://download.mql5.com/cdn/mobile/mt5/android?server=LuckyAntTradingLtd-Live" class="uk-button in-button-app ">
+                            <i class="fab fa-google-play fa-2x"></i>
+                            <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.android')</span></span>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="https://download.mql5.com/cdn/web/lucky.ant.trading/mt5/luckyanttradingltd5setup.exe" class="uk-button in-button-app">
+                            <i class="fa-brands fa-windows fa-2x"></i>
+                            <span class="wrapper">@lang('messages.download') <br><span>@lang('messages.desktop')</span></span>
+                        </a>
+                    </div>
                 </div>
               
             </div>

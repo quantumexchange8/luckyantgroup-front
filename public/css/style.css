@@ -26544,6 +26544,9 @@ footer .social-media-list div a .fab:hover {
         justify-content: center;
         width: 100%;
     }
+    .in-button-app {
+        width: 100%;
+    }
 }
 .in-profit-3 {
     background-color: #022859;
