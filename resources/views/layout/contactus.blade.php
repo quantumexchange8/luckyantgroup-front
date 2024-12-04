@@ -19,7 +19,11 @@
                     <div>
                         <h5 class="uk-margin-remove-bottom">@lang('messages.address')</h5>
                         <p class="uk-margin-small-top">
-                            F-3a-01, Level 3, KL Gateway Corporate Office Suite, N0 2, Jalan Kerinchi, Gerbang Kerinchi Lestari, 59200, Kuala Lumpur.
+                            Hainan Province,  <br>
+                            Haikou City,  <br>
+                            Longhua District,  <br>
+                            Jinmao Street,  <br>
+                            Banshan Huayuan Haitian Pavilion 2918<br>
                         </p>
                     </div>
                     <div>   
