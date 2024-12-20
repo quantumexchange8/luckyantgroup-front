@@ -19,11 +19,12 @@
                     <div>
                         <h5 class="uk-margin-remove-bottom">@lang('messages.address')</h5>
                         <p class="uk-margin-small-top">
-                            Hainan Province,  <br>
+                            16 Chotiwitthayakut 2 Road., Kho Hong Subdistrict, Hat Yai District, Songkhla, 90110, Thailand
+                            {{-- Hainan Province,  <br>
                             Haikou City,  <br>
                             Longhua District,  <br>
                             Jinmao Street,  <br>
-                            Banshan Huayuan Haitian Pavilion 2918<br>
+                            Banshan Huayuan Haitian Pavilion 2918<br> --}}
                         </p>
                     </div>
                     <div>   
