@@ -243,5 +243,6 @@ return [
     'pdf_name' => 'AML POLICY.pdf',
     'anti_money_laundering' => 'AML Policy',
     'aml_description' => 'To know more about AML Policy click the download and view our AML Policy',
+    'support_line' => 'Support Line',
 ];
 ?>

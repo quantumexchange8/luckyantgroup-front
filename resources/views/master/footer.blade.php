@@ -40,6 +40,10 @@
                                 </ul>
                               </div>
                         </li>
+                        <li>
+                            <div><i class="fa-solid fa-phone-volume uk-margin-small-right"></i>@lang('messages.support_line') </div>
+                            <div> <a href="tel:+6674236886">+6674236886</a> </div>
+                        </li>
                     </ul>
                 </div>
                 <div>

@@ -241,6 +241,7 @@ return [
     "privacy_policy_caption" => "閱讀我們的隱私政策，了解我們如何保護您的個人信息並遵守最高的隱私標準。",
     "disclosure_riskwarning_caption" => "閱讀披露和風險警告，了解交易期權、差價合約、外匯和加密貨幣的風險，並確保您完全了解所有交易項目的潛在風險。",
     "ct_terms_condition_caption" => "詳細閱讀我們的複製交易條款和條件，以了解這種流行的交易策略如何在我們的平台上運作。",
+    'support_line' => '客服热线',
 ];
 ?>
 

@@ -241,5 +241,6 @@ return [
     'privacy_policy_caption'=>'阅读我们的隐私政策，了解我们如何优先考虑和保护您的个人信息。',
     'disclosure_riskwarning_caption'=>'要了解有关重要信息和可能风险的更多信息，请浏览我们的信息披露和风险警告告部分。',
     'ct_terms_condition_caption'=>'要全面了解我们的平台如何保证安全且有利可图的交易体验，请浏览我们的跟单交易条款和条件。',
+    'support_line' => '客服热线',
 ];
 ?>
